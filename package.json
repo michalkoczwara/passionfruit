@@ -37,7 +37,7 @@
     "koa-router": "^7.2.1",
     "koa-send": "^4.1.1",
     "mz": "^2.6.0",
-    "nodemon": "^1.12.1",
+    "nodemon": "^1.14.11",
     "objection": "^0.8.7",
     "plist": "^2.1.0",
     "promise.prototype.finally": "^3.0.0",
