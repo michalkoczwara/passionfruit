@@ -41,7 +41,7 @@
     "objection": "^0.8.7",
     "plist": "^2.1.0",
     "promise.prototype.finally": "^3.0.0",
-    "socket.io": "^2.0.3",
+    "socket.io": "^2.4.0",
     "socket.io-stream": "^0.9.1",
     "sqlite3": "^3.1.9"
   },
