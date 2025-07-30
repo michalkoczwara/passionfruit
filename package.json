@@ -29,7 +29,7 @@
     "frida": "^10.6.3",
     "frida-fs": "^1.1.1",
     "frida-load": "^1.0.0",
-    "koa": "^2.3.0",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^4.2.0",
     "koa-compress": "^2.0.0",
     "koa-json": "^2.0.2",
