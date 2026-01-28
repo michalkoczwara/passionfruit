@@ -25,7 +25,7 @@
   "homepage": "https://github.com/chaitin/passionfruit#readme",
   "dependencies": {
     "base64-js": "^1.2.1",
-    "eslint": "^4.8.0",
+    "eslint": "^9.26.0",
     "frida": "^10.6.3",
     "frida-fs": "^1.1.1",
     "frida-load": "^1.0.0",
@@ -43,7 +43,7 @@
     "promise.prototype.finally": "^3.0.0",
     "socket.io": "^2.0.3",
     "socket.io-stream": "^0.9.1",
-    "sqlite3": "^3.1.9"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "cross-env": "^5.0.5",
